@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lucas-lopes-5b200b218/](https://www.linkedin.com/in/jos%C3%A9-alexandre-alves-moura-bb28a712/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alexandre-alves-moura-bb28a712/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-alves)](https://github.com/alexandre-alves/)
 
