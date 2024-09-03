@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 </div>
 
 ### Apaixonado por tecnologia e sempre me aperfeiçoando.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandre-alves&repo=myRabbitMQ)](https://github.com/alexandre-alves/)
 
